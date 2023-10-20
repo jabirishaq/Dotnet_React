@@ -1,0 +1,15 @@
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\bin\Debug\net7.0\Domain.dll
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\Learning\CoreAndReactApp\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll
