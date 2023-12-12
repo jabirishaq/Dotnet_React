@@ -1773,11 +1773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\CoreAndReactApp\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "D:\\Learning\\CoreAndReactApp\\reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Learning\\CoreAndReactApp\\Reactivities\\API\\API.csproj",
+      "projectPath": "D:\\Learning\\CoreAndReactApp\\reactivities\\API\\API.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\CoreAndReactApp\\Reactivities\\API\\obj\\",
+      "outputPath": "D:\\Learning\\CoreAndReactApp\\reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1800,8 +1800,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Learning\\CoreAndReactApp\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "D:\\Learning\\CoreAndReactApp\\Reactivities\\Application\\Application.csproj"
+            "D:\\Learning\\CoreAndReactApp\\reactivities\\Application\\Application.csproj": {
+              "projectPath": "D:\\Learning\\CoreAndReactApp\\reactivities\\Application\\Application.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q6vU85L5GH+9pObip+oKP/X+BpffzFgNBA/1sBYM+TQZu57sq+NVSh7pjWB3vai0BHOA2MJWV5scW9WbVIYL4Q==",
+  "dgSpecHash": "nTfAonQHXhmHSZOv18fzWBRDo8cJmqcCEH+PbmJSoAzK7OvqQwOBGJ52qBnXMvL0OR59Qgxwe925+3r6wGtWQg==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\CoreAndReactApp\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "D:\\Learning\\CoreAndReactApp\\reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
